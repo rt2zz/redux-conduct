@@ -1,6 +1,6 @@
 {
   "name": "redux-conduct",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Redux Conduct",
   "main": "lib/index.js",
   "scripts": {
